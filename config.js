@@ -84,8 +84,8 @@ global.snh = 'https://youtube.com/channel/@ranggabotzofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '0857 7915 0501'
-global.povo = '-'
-global.pgopay = '-'
+global.povo = '0857 7915 0501'
+global.pgopay = '0857 7915 0501'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0857 7019 0255'
 global.ppulsa2 = '0857 7947 7702'
